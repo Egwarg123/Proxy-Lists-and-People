@@ -12,4 +12,4 @@
 
 ## Induvidual Proxy links
 # Some of these might not be fully developed.
-<a  href="https://coolproxei.glitch.me">
+https://coolproxie.glitch.me
