@@ -1,16 +1,20 @@
-### Proxy-Lists-and-People
-# Hi in this respitory is will list a bunch of users who make proxies and a bunch of proxy links
+# Proxy-Lists-and-People
 
-# These ones where listed in my friends proxie list too
+## Hi! In this repository, I list individuals and repositories that help with inblocking the internet for us.
+
+### These ones were listed in my friends proxy list too:
+
 - [Titanium Network](https://github.com/Titanium-Network) 
 - [QuiteAFancyEmerald](https://github.com/QuiteAFancyEmerald) 
 - [Fog Network](https://github.com/FogNetwork) 
 - [TTheHolyOne](https://github.com/TTheHolyOne) 
 - [unc3ns0red](https://github.com/unc3ns0red) 
 - [nfriedly](https://github.com/nfriedly) 
-- [animeishot](https://github.com/animeishot)
+- [animeishot](https://animeishot.github.io/)
 
-## Induvidual Proxy links
-# Some of these might not be fully developed.
+### Individual Proxy links:
+
+### Some of these might not be fully developed:
+
 - https://coolproxei.glitch.me
 - http://64.227.120.231/
