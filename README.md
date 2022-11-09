@@ -13,3 +13,4 @@
 ## Induvidual Proxy links
 # Some of these might not be fully developed.
 https://coolproxei.glitch.me
+http://64.227.120.231/
